@@ -1,1 +1,3 @@
 # unit-4-game
+
+	I have created a crystal game that tracks wins, losses, and resets after a win or loss. The random number is always between 19 and 120. The random numbers for crystals are always between 1 and 12. The numbers successfully add up below the pictures of crystals. The crystal values do not display until you click on the picture. The way I coded this out was to create a function for each picture. This was simpler for me to understand but it was also a lot more code than the solution and did not use the same code repeatedly. This is not good as updating this code would be tedious. Next time I'll try to make the code more efficient. 
